@@ -8,7 +8,8 @@
       <p><b>地址：宁波市鄞州区盛莫路1519号回龙校区</b></p>
     </td>
     <td width="25%">
-      <img src="/zjz.jpeg" width="100%">      
+      <img src="/zjz.jpeg" width="100%">      %!<a href="https://2478603208.github.io/2020015097/" target="_blank"><img src="https://github.com/2478603208/2020015097/blob/gh-pages/zjz.jpeg
+"></img></a>   
     </td>
   </tr>
 </table>
